@@ -20,7 +20,7 @@ export default new Router({
 		{
 			path: '/Station',
 			name: 'Station',
-			component: Station
+			component: Station 
 		},
     ]
 })
