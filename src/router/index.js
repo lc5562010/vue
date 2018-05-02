@@ -5,6 +5,7 @@ import Station from '@/components/Station'
 
 Vue.use(Router)
 
+// 路由配置
 export default new Router({
     routes: [
 		{
